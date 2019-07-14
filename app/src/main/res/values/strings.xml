@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Challenge1</string>
+    <string name="slack">Slack Username: Linus Wahome</string>
+    <string name="phone">Phone: 254707449051</string>
+    <string name="email">Email: linuswahomeking@gmail.com</string>
+    <string name="country">Country: Kenya</string>
+    <string name="track">Track: Android</string>
+    <string name="name">Linus Wahome</string>
+    <string name="intro">Welcome to ALC 4.0</string>
+</resources>
